@@ -4,7 +4,7 @@ Udacity Data Analyst Nano-degree Projects
 Here are the 4 projects that I completed during the Udacity Data Analyst Nanodegree. 
 
 Project 1:
-Using data from IMDB to analyse the data.
+Using data from IMDB to analyse the data and communictae the my findings.
 
 Project 2:
 Using statistical techinques for hypothesis testing and regression analysis to draw conclusions.
